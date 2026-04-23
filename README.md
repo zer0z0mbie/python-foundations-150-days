@@ -47,6 +47,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 ## 📈 Progress
 
 - Day 001 – Variable assignment (starting from fundamentals)
+- Day 002 – Assigning a numeric value
 
 (Progress will be updated daily)
 

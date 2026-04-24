@@ -48,6 +48,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 
 - Day 001 – Variable assignment (starting from fundamentals)
 - Day 002 – Assigning a numeric value
+- Day 003 – Assigning a String (Reinforcement)
 
 (Progress will be updated daily)
 

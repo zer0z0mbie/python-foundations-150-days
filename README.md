@@ -51,6 +51,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 003 – Assigning a String (Reinforcement)
 - Day 004 – Assigning Multiple Variables
 - Day 005 – Combining Variables
+- Day 006 - Basic Arithmetic with Variables
 
 (Progress will be updated daily)
 

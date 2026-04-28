@@ -52,6 +52,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 004 – Assigning Multiple Variables
 - Day 005 – Combining Variables
 - Day 006 - Basic Arithmetic with Variables
+- Day 007 – Changing Variable Values
 
 (Progress will be updated daily)
 

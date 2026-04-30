@@ -54,6 +54,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 006 - Basic Arithmetic with Variables
 - Day 007 – Changing Variable Values
 - Day 008 – Multiple Calculations
+- Day 009 – Getting User Input
 
 (Progress will be updated daily)
 

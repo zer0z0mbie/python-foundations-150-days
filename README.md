@@ -57,6 +57,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 009 – Getting User Input
 - Day 010 – Working with Input and Numbers
 - Day 011 – Multiple User Inputs
+- Day 012 – Formatted Output (Multi-line & Readability)
 
 (Progress will be updated daily)
 

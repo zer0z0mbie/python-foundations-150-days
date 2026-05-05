@@ -59,6 +59,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 011 – Multiple User Inputs
 - Day 012 – Formatted Output (Multi-line & Readability)
 - Day 013 – Conditional Output (First Decision-Making)
+- Day 014 – Multiple Conditions (More Than Two Outcomes)
 
 (Progress will be updated daily)
 

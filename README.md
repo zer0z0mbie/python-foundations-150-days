@@ -61,6 +61,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 013 – Conditional Output (First Decision-Making)
 - Day 014 – Multiple Conditions (More Than Two Outcomes)
 - Day 015 – Combining Conditions
+- Day 016 – Negating Conditions
 
 (Progress will be updated daily)
 

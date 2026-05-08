@@ -62,6 +62,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 014 – Multiple Conditions (More Than Two Outcomes)
 - Day 015 – Combining Conditions
 - Day 016 – Negating Conditions
+- Day 017 – Checking Value Ranges
 
 (Progress will be updated daily)
 

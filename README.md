@@ -63,6 +63,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 015 – Combining Conditions
 - Day 016 – Negating Conditions
 - Day 017 – Checking Value Ranges
+- Day 018 – Categorising Values by Range
 
 (Progress will be updated daily)
 

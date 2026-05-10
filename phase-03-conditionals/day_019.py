@@ -49,7 +49,6 @@ else:
             print("You like gothic stuff and like to suffer. You can play Bloodborne.")
         else:
             print("You like gothic stuff but don't like to suffer. You can't play Bloodborne.")
-
     elif masochist:
         print("You like to suffer but don't like gothic stuff. You can't play Bloodborne.")
     else:

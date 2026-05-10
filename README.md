@@ -64,6 +64,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 016 – Negating Conditions
 - Day 017 – Checking Value Ranges
 - Day 018 – Categorising Values by Range
+- Day 019 – Nested Conditions
 
 (Progress will be updated daily)
 

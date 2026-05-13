@@ -66,6 +66,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 018 – Categorising Values by Range
 - Day 019 – Nested Conditions
 - Day 020 – Multi-Step Decision Flow
+- Day 021 – Combining Multiple Requirements
 
 (Progress will be updated daily)
 

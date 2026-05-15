@@ -67,6 +67,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 019 – Nested Conditions
 - Day 020 – Multi-Step Decision Flow
 - Day 021 – Combining Multiple Requirements
+- Day 022 – Prioritising Conditions
 
 (Progress will be updated daily)
 

@@ -68,6 +68,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 020 – Multi-Step Decision Flow
 - Day 021 – Combining Multiple Requirements
 - Day 022 – Prioritising Conditions
+- Day 023 – Combining Multiple Path
 
 (Progress will be updated daily)
 

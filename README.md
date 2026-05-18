@@ -69,6 +69,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 021 – Combining Multiple Requirements
 - Day 022 – Prioritising Conditions
 - Day 023 – Combining Multiple Path
+- Day 024 – Detecting Invalid Paths
 
 (Progress will be updated daily)
 

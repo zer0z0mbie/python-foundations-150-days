@@ -70,6 +70,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 022 – Prioritising Conditions
 - Day 023 – Combining Multiple Path
 - Day 024 – Detecting Invalid Paths
+- Day 025 – Tracking Program State
 
 (Progress will be updated daily)
 

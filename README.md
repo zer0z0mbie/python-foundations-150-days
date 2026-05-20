@@ -71,6 +71,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 023 – Combining Multiple Path
 - Day 024 – Detecting Invalid Paths
 - Day 025 – Tracking Program State
+- Day 026 – Managing Multiple States Together
 
 (Progress will be updated daily)
 

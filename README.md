@@ -72,6 +72,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 024 – Detecting Invalid Paths
 - Day 025 – Tracking Program State
 - Day 026 – Managing Multiple States Together
+- Day 027 – State Conflicts and Resolution
 
 (Progress will be updated daily)
 

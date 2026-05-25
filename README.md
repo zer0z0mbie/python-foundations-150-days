@@ -74,7 +74,8 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 026 – Managing Multiple States Together
 - Day 027 – State Conflicts and Resolution
 - Day 028 – Hierarchical State Systems
-- Day 029 - Sequential State Progression
+- Day 029 – Sequential State Progression
+- Day 030 – Persistent Progression Systems
 
 (Progress will be updated daily)
 

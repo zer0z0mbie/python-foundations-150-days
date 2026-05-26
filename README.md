@@ -76,6 +76,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 028 – Hierarchical State Systems
 - Day 029 – Sequential State Progression
 - Day 030 – Persistent Progression Systems
+- Day 031 – Conditional State Memory
 
 (Progress will be updated daily)
 

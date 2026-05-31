@@ -81,6 +81,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 033 – Persistent Multi-Role Systems
 - Day 034 – Dynamic State Networks
 - Day 035 – Cascading State Systems
+- Day 036 – State Recovery Systems
 
 (Progress will be updated daily)
 

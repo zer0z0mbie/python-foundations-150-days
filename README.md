@@ -83,6 +83,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 035 – Cascading State Systems
 - Day 036 – State Recovery Systems
 - Day 037 – State Persistence Across Multiple Events
+- Day 038 – Conditional State Combinations
 
 (Progress will be updated daily)
 

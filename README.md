@@ -85,6 +85,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 037 – State Persistence Across Multiple Events
 - Day 038 – Conditional State Combinations
 - Day 039 – Conditional Priority Systems
+- Day 040 - Introduction to Loops
 
 (Progress will be updated daily)
 

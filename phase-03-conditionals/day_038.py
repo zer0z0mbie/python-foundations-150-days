@@ -70,4 +70,3 @@ if not fuel and gps:
 
 if not fuel and not gps:
     print("You are lost, stranded, and in serious trouble.")
-    

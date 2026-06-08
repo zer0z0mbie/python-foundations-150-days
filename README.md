@@ -86,6 +86,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 038 – Conditional State Combinations
 - Day 039 – Conditional Priority Systems
 - Day 040 - Introduction to Loops
+- Day 041 – Loop-Controlled Menus
 
 (Progress will be updated daily)
 

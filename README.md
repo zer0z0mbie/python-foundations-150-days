@@ -89,6 +89,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 041 – Loop-Controlled Menus
 - Day 042 – Sentinel-Controlled Loops
 - Day 043 – Accumulator Loops
+- Day 044 – Input Validation Loops
 
 (Progress will be updated daily)
 

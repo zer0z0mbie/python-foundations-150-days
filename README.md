@@ -90,6 +90,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 042 – Sentinel-Controlled Loops
 - Day 043 – Accumulator Loops
 - Day 044 – Input Validation Loops
+- Day 045 – Loop-Controlled Retry Systems
 
 (Progress will be updated daily)
 

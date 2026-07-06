@@ -95,6 +95,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 047 – Loop-Based Data Collection Systems
 - Day 048 – Searching Through Collections
 - Day 049 – Filtering Collections
+- Day 050 – Sorting Collections
 
 (Progress will be updated daily)
 

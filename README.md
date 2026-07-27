@@ -97,6 +97,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 049 – Filtering Collections
 - Day 050 – Sorting Collections
 - Day 051 – Updating Records in Collections
+- Day 052 – Summarising Collections
 
 (Progress will be updated daily)
 

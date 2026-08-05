@@ -99,6 +99,7 @@ Each phase introduces new concepts while reinforcing previous ones.
 - Day 051 – Updating Records in Collections
 - Day 052 – Summarising Collections
 - Day 053 – Removing Records from Collections
+- Day 054 – Finding Maximum and Minimum Values
 
 (Progress will be updated daily)
 
